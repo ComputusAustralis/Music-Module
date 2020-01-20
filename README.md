@@ -1,4 +1,4 @@
-# Fxci-MusicPlayer
+# Fraeio Music Manager Module
 ## User friendly interface to show off your music.
 ![Player](https://raw.githubusercontent.com/LovBlueFox/Fxci-MusicPlayer/master/.github/Images/Player-15Sept19.png)
 
